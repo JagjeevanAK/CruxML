@@ -1,5 +1,5 @@
 # CruxML
-
+### Under-development
 **The crux of machine learning — a minimal PyTorch-like deep learning library.**
 
 CruxML is a lightweight reimplementation of core PyTorch concepts, built for learning, experimentation, and rapid prototyping. It offers a simple, readable codebase focused on tensors, autograd, and basic neural network components.
