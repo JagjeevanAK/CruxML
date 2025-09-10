@@ -1,26 +1,14 @@
 [project]
 name = "cruxml"
 version = "0.1.0"
-description = "The crux of machine learning — a minimal ML & DL library"
+description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.10"
-license = {text = "MIT"}
 authors = [
-  { name = "Jagjeevan Kashid", email = "jagjeevankashid97@gmail.com" }
+    { name = "Jagjeevan Kashid", email = "jagjeevandev97@gmail.com" }
 ]
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
-    "Operating System :: OS Independent",
-]
-
-dependencies = [
-    "numpy",
-]
-
-[project.urls]
-"Homepage" = "https://github.com/jagjeevanak/cruxml"
+requires-python = ">=3.12"
+dependencies = []
 
 [build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
